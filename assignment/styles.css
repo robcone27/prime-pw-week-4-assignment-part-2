@@ -1,0 +1,18 @@
+header {
+  background-color: purple;
+  color: white;
+}
+ body {
+   background-color: blue;
+ }
+ .info {
+   background-color: purple;
+   color: white;
+ }
+img {
+  height: 300px;
+}
+h3 {
+  background-color: purple;
+  color: white;
+}
